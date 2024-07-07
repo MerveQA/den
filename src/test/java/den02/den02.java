@@ -1,6 +1,6 @@
-package den01;
+package den02;
 
-public class den01 {
+public class den02 {
     public static void main(String[] args) {
         System.out.println("hi");
     }
